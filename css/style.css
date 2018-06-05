@@ -1,0 +1,45 @@
+.titolo{
+	color: grey;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 95px;
+}
+
+.sottotitolo{
+	color: grey;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.testo{
+	color: grey;
+	font-family: 'Orbitron', sans-serif;
+	text-align: center;
+}
+
+.menu{
+	text-decoration: none
+}
+
+.immagine{
+	display: block;
+	margin: 0 auto;
+}
+
+.spazio{
+	margin-top: 40px;
+}
+
+.accedi{
+	margin-top: 100px;
+	margin-left: 700px;
+	margin-right: 700px;
+}
+
+.testoalcentro{
+	text-align: center	
+}
+
+.registrazione{
+	margin-top: 75px;
+	margin-left: 500px;
+	margin-right: 500px;
+}
